@@ -10,7 +10,10 @@ Each rank is described, starting with rank 8 and ending with rank 1, with a "/" 
 "w" means that White is to move; "b" means that Black is to move.
 
 #### (...)
-## Examples
+## Examples 
+white to play
 ### rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w
+![phprLkH4s](https://user-images.githubusercontent.com/90989827/212181438-eb314a58-2857-43d7-9ef9-16d9961c41a2.png)
+
 
 
