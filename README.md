@@ -1,5 +1,6 @@
 # ChessFENDeepLearningPrediction
-##Context
+## Context
+
 The goal of the project is to build a model able to generate FEN description based on a schematic image of a chess board.
 ## What Is FEN?
 FEN is the abbreviation of Forsyth-Edwards Notation, and it is the standard notation to describe positions of a chess game. Steven J. Edwards, a computer programmer, created this notation system based on another system designed by the journalist David Forsyth. Edwards modified the older notation system so that chess software could use it.
